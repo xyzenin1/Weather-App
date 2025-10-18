@@ -1,5 +1,5 @@
 # Weather App
 
 Simple weather app made in python
-Will need .env file to hold your api key
-Name it API_KEY
+<br>Will need .env file to hold your api key
+<br>Name it API_KEY
